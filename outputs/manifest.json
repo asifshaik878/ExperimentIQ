@@ -1,0 +1,41 @@
+{
+  "project": "ExperimentIQ",
+  "seed": 20261022,
+  "users_per_experiment": 5000,
+  "experiment_count": 10,
+  "total_eligible_users": 50000,
+  "database": "experimentiq.db",
+  "row_counts": {
+    "experiments": 10,
+    "variants": 20,
+    "audience_members": 50000,
+    "assignments": 50001,
+    "exposure_events": 47993,
+    "conversion_events": 5604,
+    "metric_definitions": 31,
+    "guardrail_metrics": 20,
+    "experiment_results": 10,
+    "experiment_state_events": 30,
+    "support_events": 2395,
+    "refund_events": 940
+  },
+  "source": "Deterministic synthetic data generator",
+  "external_data_used": false,
+  "validation_status": "PASSED",
+  "checksums": {
+    "assignments.csv": "6662e5ab4fe83c89fc222b740bdb23d33f501618e628a3f04c6dea91c41553ff",
+    "audience_members.csv": "2fa4a7d1cdbded777f2e97a89747945d2e014e691ea507258f2e1622ea42659a",
+    "conversion_events.csv": "1a5798c3ab65b345b882c47715bc3cbf3ba1597f31c624740c992cd957e8a689",
+    "experiment_results.csv": "d6764a40090d7af64909ea1194d72ad7f500b9afcb5895b1384a606ba064f3d8",
+    "experiment_state_events.csv": "63348913b52b22e400de522efe521644a7a0f4c82096f1cfa6737179c17ed2be",
+    "experiments.csv": "7d2800edd8ccf5e5968607f88f852fe6cba978f1512ca5b9f284f121c0f241a2",
+    "exposure_events.csv": "751261aa7317d31c1b5ec954addaaa2ad1e6446aba3b8df60a431e91851c9b84",
+    "ground_truth.csv": "153a75fd46a0cde36d83bce8020bee9ee3e0f0ded15834ad62b23d95bcf5a768",
+    "guardrail_metrics.csv": "b88c06c53e3db66b911a30e03ae16713d006c245a0716cdb15ca150dcbaf8b12",
+    "metric_definitions.csv": "94464005957dd2e11eb60e9521398f41b1c8287de2f3b56f49c04ee36fd777a5",
+    "refund_events.csv": "9bfa72e8348ae1d216d2aca6bf51eee88b7f59445f0088f6eb3963b26347711c",
+    "support_events.csv": "2eb02ebec195ff6c2f9dd70ce5a02338e2d1a4b111c207752f10d04bc6ecffa9",
+    "variants.csv": "2a1aa418b31391785ab3e14b1a102b9d1a810af02d44373dceee75d6d8f5f6d9",
+    "ground_truth.json": "a275e3148818267f481910d6145aedc835236f3464cfe0ab3a6c278335216680"
+  }
+}

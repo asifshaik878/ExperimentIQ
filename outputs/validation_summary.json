@@ -1,0 +1,28 @@
+{
+  "status": "PASSED",
+  "checks": {
+    "experiments_primary_key_unique": true,
+    "variants_primary_key_unique": true,
+    "audience_members_primary_key_unique": true,
+    "assignments_primary_key_unique": true,
+    "exposure_events_primary_key_unique": true,
+    "conversion_events_primary_key_unique": true,
+    "metric_definitions_primary_key_unique": true,
+    "guardrail_metrics_primary_key_unique": true,
+    "experiment_results_primary_key_unique": true,
+    "experiment_state_events_primary_key_unique": true,
+    "support_events_primary_key_unique": true,
+    "refund_events_primary_key_unique": true,
+    "variant_experiment_relationships": true,
+    "assignment_foreign_keys": true,
+    "exposure_foreign_keys": true,
+    "conversion_foreign_keys": true,
+    "metric_foreign_keys": true,
+    "guardrail_foreign_keys": true,
+    "result_foreign_keys": true,
+    "required_anomaly_types": true,
+    "result_sample_sizes_reconcile": true,
+    "metric_versions_preserved": true,
+    "guardrail_decisions_reconcile": true
+  }
+}

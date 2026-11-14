@@ -1,0 +1,32 @@
+metric_definition_id,experiment_id,metric_key,metric_name,metric_type,numerator_field,denominator_field,metric_version,effective_from,effective_to,is_primary
+MET-000001-01,EXP-2026-000001,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-01T00:00:00,,1
+MET-000001-02,EXP-2026-000001,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-01T00:00:00,,0
+MET-000001-03,EXP-2026-000001,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-01T00:00:00,,0
+MET-000002-01,EXP-2026-000002,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-03T00:00:00,,1
+MET-000002-02,EXP-2026-000002,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-03T00:00:00,,0
+MET-000002-03,EXP-2026-000002,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-03T00:00:00,,0
+MET-000003-01,EXP-2026-000003,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-05T00:00:00,,1
+MET-000003-02,EXP-2026-000003,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-05T00:00:00,,0
+MET-000003-03,EXP-2026-000003,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-05T00:00:00,,0
+MET-000004-01,EXP-2026-000004,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-07T00:00:00,,1
+MET-000004-02,EXP-2026-000004,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-07T00:00:00,,0
+MET-000004-03,EXP-2026-000004,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-07T00:00:00,,0
+MET-000005-01,EXP-2026-000005,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-09T00:00:00,,1
+MET-000005-02,EXP-2026-000005,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-09T00:00:00,,0
+MET-000005-03,EXP-2026-000005,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-09T00:00:00,,0
+MET-000006-01,EXP-2026-000006,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-11T00:00:00,,1
+MET-000006-02,EXP-2026-000006,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-11T00:00:00,,0
+MET-000006-03,EXP-2026-000006,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-11T00:00:00,,0
+MET-000007-01,EXP-2026-000007,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-13T00:00:00,,1
+MET-000007-02,EXP-2026-000007,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-13T00:00:00,,0
+MET-000007-03,EXP-2026-000007,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-13T00:00:00,,0
+MET-000008-01,EXP-2026-000008,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-15T00:00:00,,1
+MET-000008-02,EXP-2026-000008,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-15T00:00:00,,0
+MET-000008-03,EXP-2026-000008,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-15T00:00:00,,0
+MET-000009-01,EXP-2026-000009,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-17T00:00:00,,1
+MET-000009-02,EXP-2026-000009,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-17T00:00:00,,0
+MET-000009-03,EXP-2026-000009,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-17T00:00:00,,0
+MET-000010-01,EXP-2026-000010,conversion_rate,Conversion Rate,BINARY,converted,assigned,1,2026-10-19T00:00:00,,1
+MET-000010-02,EXP-2026-000010,support_rate,Support Contact Rate,BINARY,support_contact,assigned,1,2026-10-19T00:00:00,,0
+MET-000010-03,EXP-2026-000010,refund_rate,Refund Rate,BINARY,refund,assigned,1,2026-10-19T00:00:00,,0
+MET-000010-04,EXP-2026-000010,conversion_rate,Conversion Rate Revised,BINARY,converted,assigned,2,2026-12-20T00:00:00,,1
